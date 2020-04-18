@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740807170632",
+    "firebase_url": "https://careerhub-e56ed.firebaseio.com",
+    "project_id": "careerhub-e56ed",
+    "storage_bucket": "careerhub-e56ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740807170632:android:588c382e15777dc3b5d67d",
+        "android_client_info": {
+          "package_name": "com.example.career_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740807170632-hsqj9n5p9n47uhcvv60joc2tn3jhpqdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXln89giHbGWMPNfzQGA-w8CRncBgGWY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740807170632-hsqj9n5p9n47uhcvv60joc2tn3jhpqdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
